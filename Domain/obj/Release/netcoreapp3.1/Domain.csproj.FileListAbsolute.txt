@@ -1,0 +1,30 @@
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\Domain\bin\Release\netcoreapp3.1\Domain.deps.json
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\Domain\bin\Release\netcoreapp3.1\Domain.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\Domain\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\Domain\obj\Release\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\Domain\obj\Release\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\Domain\obj\Release\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\Domain\obj\Release\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\Domain\obj\Release\netcoreapp3.1\Domain.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\Domain\obj\Release\netcoreapp3.1\Domain.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\Domain\obj\Release\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\Domain\bin\Release\netcoreapp3.1\Domain.deps.json
+C:\Users\Alex\Desktop\PAD Laborator nr.3\Domain\bin\Release\netcoreapp3.1\Domain.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\Domain\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Users\Alex\Desktop\PAD Laborator nr.3\Domain\obj\Release\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\Domain\obj\Release\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\PAD Laborator nr.3\Domain\obj\Release\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\Domain\obj\Release\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Alex\Desktop\PAD Laborator nr.3\Domain\obj\Release\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\Domain\obj\Release\netcoreapp3.1\Domain.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\Domain\obj\Release\netcoreapp3.1\Domain.pdb
+D:\UTM\Sem VII\PAD\Pad 3\Domain\bin\Release\netcoreapp3.1\Domain.deps.json
+D:\UTM\Sem VII\PAD\Pad 3\Domain\bin\Release\netcoreapp3.1\Domain.dll
+D:\UTM\Sem VII\PAD\Pad 3\Domain\bin\Release\netcoreapp3.1\Domain.pdb
+D:\UTM\Sem VII\PAD\Pad 3\Domain\obj\Release\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTM\Sem VII\PAD\Pad 3\Domain\obj\Release\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\UTM\Sem VII\PAD\Pad 3\Domain\obj\Release\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\UTM\Sem VII\PAD\Pad 3\Domain\obj\Release\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\UTM\Sem VII\PAD\Pad 3\Domain\obj\Release\netcoreapp3.1\Domain.sourcelink.json
+D:\UTM\Sem VII\PAD\Pad 3\Domain\obj\Release\netcoreapp3.1\Domain.dll
+D:\UTM\Sem VII\PAD\Pad 3\Domain\obj\Release\netcoreapp3.1\Domain.pdb

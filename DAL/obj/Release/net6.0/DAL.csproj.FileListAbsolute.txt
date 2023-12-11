@@ -1,0 +1,16 @@
+D:\UTM\Sem VII\PAD\Pad 3\DAL\bin\Release\net6.0\DAL.deps.json
+D:\UTM\Sem VII\PAD\Pad 3\DAL\bin\Release\net6.0\DAL.dll
+D:\UTM\Sem VII\PAD\Pad 3\DAL\bin\Release\net6.0\DAL.pdb
+D:\UTM\Sem VII\PAD\Pad 3\DAL\bin\Release\net6.0\Domain.dll
+D:\UTM\Sem VII\PAD\Pad 3\DAL\bin\Release\net6.0\Domain.pdb
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\net6.0\DAL.csproj.AssemblyReference.cache
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\net6.0\DAL.AssemblyInfoInputs.cache
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\net6.0\DAL.AssemblyInfo.cs
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\net6.0\DAL.sourcelink.json
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\net6.0\DAL.csproj.CopyComplete
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\net6.0\DAL.dll
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\net6.0\refint\DAL.dll
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\net6.0\DAL.pdb
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\net6.0\ref\DAL.dll

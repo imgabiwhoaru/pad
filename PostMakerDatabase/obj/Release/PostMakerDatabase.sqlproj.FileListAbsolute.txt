@@ -1,0 +1,9 @@
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMakerDatabase\bin\Release\PostMakerDatabase.dacpac
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMakerDatabase\bin\Release\PostMakerDatabase.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMakerDatabase\bin\Release\PostMakerDatabase.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMakerDatabase\obj\Release\Model.xml
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMakerDatabase\obj\Release\refactor.xml
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMakerDatabase\obj\Release\postdeploy.sql
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMakerDatabase\obj\Release\predeploy.sql
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMakerDatabase\obj\Release\PostMakerDatabase.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMakerDatabase\obj\Release\PostMakerDatabase.pdb

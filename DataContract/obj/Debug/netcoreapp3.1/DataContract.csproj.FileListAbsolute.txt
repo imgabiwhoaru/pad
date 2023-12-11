@@ -1,0 +1,10 @@
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\bin\Debug\netcoreapp3.1\DataContract.deps.json
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\bin\Debug\netcoreapp3.1\DataContract.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\bin\Debug\netcoreapp3.1\DataContract.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\obj\Debug\netcoreapp3.1\DataContract.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\obj\Debug\netcoreapp3.1\DataContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\obj\Debug\netcoreapp3.1\DataContract.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\obj\Debug\netcoreapp3.1\DataContract.AssemblyInfo.cs
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\obj\Debug\netcoreapp3.1\DataContract.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\obj\Debug\netcoreapp3.1\DataContract.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\obj\Debug\netcoreapp3.1\DataContract.pdb

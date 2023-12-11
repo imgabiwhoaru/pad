@@ -1,0 +1,6 @@
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMakerDatabase\bin\Debug\PostMakerDatabase.dacpac
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMakerDatabase\bin\Debug\PostMakerDatabase.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMakerDatabase\bin\Debug\PostMakerDatabase.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMakerDatabase\obj\Debug\PostMakerDatabase.sqlproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMakerDatabase\obj\Debug\PostMakerDatabase.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMakerDatabase\obj\Debug\PostMakerDatabase.pdb

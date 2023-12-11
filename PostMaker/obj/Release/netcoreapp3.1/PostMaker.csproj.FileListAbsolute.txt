@@ -1,0 +1,159 @@
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\PostMaker.exe
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\PostMaker.deps.json
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\PostMaker.runtimeconfig.json
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\PostMaker.runtimeconfig.dev.json
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\PostMaker.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\PostMaker.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\PostMaker.Views.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\PostMaker.Views.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\Dapper.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\BLL.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\DAL.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\DataContract.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\Domain.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\BLL.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\DataContract.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\DAL.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\PostMaker.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\PostMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\PostMaker.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\PostMaker.AssemblyInfo.cs
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\PostMaker.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\PostMaker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\PostMaker.RazorAssemblyInfo.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\PostMaker.RazorAssemblyInfo.cs
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\staticwebassets\PostMaker.StaticWebAssets.Manifest.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\PostMaker.TagHelpers.input.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\PostMaker.TagHelpers.output.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\PostMaker.RazorCoreGenerate.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\Home\CreatePost.cshtml.g.cs
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\PostMaker.RazorTargetAssemblyInfo.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\PostMaker.RazorTargetAssemblyInfo.cs
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\PostMaker.Views.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\PostMaker.csproj.CopyComplete
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\PostMaker.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\PostMaker.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\PostMaker\obj\Release\netcoreapp3.1\PostMaker.genruntimeconfig.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\PostMaker.exe
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\PostMaker.deps.json
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\PostMaker.runtimeconfig.json
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\PostMaker.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\PostMaker.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\PostMaker.pdb
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\PostMaker.Views.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\PostMaker.Views.pdb
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\Dapper.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\BLL.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\DAL.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\DataContract.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\Domain.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\BLL.pdb
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\DataContract.pdb
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\DAL.pdb
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.AssemblyInfo.cs
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.RazorAssemblyInfo.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.RazorAssemblyInfo.cs
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\staticwebassets\PostMaker.StaticWebAssets.Manifest.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.TagHelpers.input.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.TagHelpers.output.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.RazorCoreGenerate.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\Home\CreatePost.cshtml.g.cs
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.RazorTargetAssemblyInfo.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.RazorTargetAssemblyInfo.cs
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.Views.pdb
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.csproj.CopyComplete
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.pdb
+C:\Users\Alex\Desktop\PAD Laborator nr.3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.genruntimeconfig.cache
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\appsettings.json
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\PostMaker.exe
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\PostMaker.deps.json
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\PostMaker.runtimeconfig.json
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\PostMaker.runtimeconfig.dev.json
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\PostMaker.dll
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\PostMaker.pdb
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\PostMaker.Views.dll
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\PostMaker.Views.pdb
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\Dapper.dll
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\BLL.dll
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\DAL.dll
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\DataContract.dll
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\Domain.dll
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\BLL.pdb
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\DataContract.pdb
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\DAL.pdb
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\bin\Release\netcoreapp3.1\Domain.pdb
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.csproj.AssemblyReference.cache
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.AssemblyInfoInputs.cache
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.AssemblyInfo.cs
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.csproj.CoreCompileInputs.cache
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.MvcApplicationPartsAssemblyInfo.cache
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.RazorAssemblyInfo.cache
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.RazorAssemblyInfo.cs
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.sourcelink.json
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.TagHelpers.input.cache
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.TagHelpers.output.cache
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.RazorCoreGenerate.cache
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\Home\CreatePost.cshtml.g.cs
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.RazorTargetAssemblyInfo.cache
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.RazorTargetAssemblyInfo.cs
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.Views.pdb
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\staticwebassets\PostMaker.StaticWebAssets.Manifest.cache
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\staticwebassets\PostMaker.StaticWebAssets.Pack.cache
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\staticwebassets\msbuild.PostMaker.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\staticwebassets\msbuild.build.PostMaker.props
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PostMaker.props
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PostMaker.props
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.csproj.CopyComplete
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.dll
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.pdb
+D:\UTM\Sem VII\PAD\Pad 3\PostMaker\obj\Release\netcoreapp3.1\PostMaker.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+version: '3.3'
+services:
+    backend:
+        build:
+            context: .
+            dockerfile: PostMaker/Dockerfile
+        ports:
+            - 80:80
+            - 443:443

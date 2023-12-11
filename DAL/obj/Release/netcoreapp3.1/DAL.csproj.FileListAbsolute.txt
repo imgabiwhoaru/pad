@@ -1,0 +1,40 @@
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DAL\bin\Release\netcoreapp3.1\DAL.deps.json
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DAL\bin\Release\netcoreapp3.1\DAL.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DAL\bin\Release\netcoreapp3.1\DAL.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DAL\bin\Release\netcoreapp3.1\Domain.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DAL\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DAL\obj\Release\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DAL\obj\Release\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DAL\obj\Release\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DAL\obj\Release\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DAL\obj\Release\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DAL\obj\Release\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DAL\obj\Release\netcoreapp3.1\DAL.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DAL\obj\Release\netcoreapp3.1\DAL.pdb
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DAL\bin\Release\netcoreapp3.1\DAL.deps.json
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DAL\bin\Release\netcoreapp3.1\DAL.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DAL\bin\Release\netcoreapp3.1\DAL.pdb
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DAL\bin\Release\netcoreapp3.1\Domain.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DAL\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DAL\obj\Release\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DAL\obj\Release\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DAL\obj\Release\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DAL\obj\Release\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DAL\obj\Release\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DAL\obj\Release\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DAL\obj\Release\netcoreapp3.1\DAL.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DAL\obj\Release\netcoreapp3.1\DAL.pdb
+D:\UTM\Sem VII\PAD\Pad 3\DAL\bin\Release\netcoreapp3.1\DAL.deps.json
+D:\UTM\Sem VII\PAD\Pad 3\DAL\bin\Release\netcoreapp3.1\DAL.dll
+D:\UTM\Sem VII\PAD\Pad 3\DAL\bin\Release\netcoreapp3.1\DAL.pdb
+D:\UTM\Sem VII\PAD\Pad 3\DAL\bin\Release\netcoreapp3.1\Domain.dll
+D:\UTM\Sem VII\PAD\Pad 3\DAL\bin\Release\netcoreapp3.1\Domain.pdb
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\netcoreapp3.1\DAL.sourcelink.json
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\netcoreapp3.1\DAL.csproj.CopyComplete
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\netcoreapp3.1\DAL.dll
+D:\UTM\Sem VII\PAD\Pad 3\DAL\obj\Release\netcoreapp3.1\DAL.pdb

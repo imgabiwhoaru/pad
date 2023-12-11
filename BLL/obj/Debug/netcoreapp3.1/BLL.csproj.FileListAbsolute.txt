@@ -1,0 +1,17 @@
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\BLL\bin\Debug\netcoreapp3.1\DataContract.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\BLL\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\BLL\bin\Debug\netcoreapp3.1\DataContract.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\BLL\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
